@@ -7,10 +7,12 @@ This project analyzes key aspects of website performance with a focus on user se
 
 # Tools & Technologies Used
 
-    ython: For data analysis and scripting
+    Python: For data analysis and scripting
 
     Pandas & NumPy: For data manipulation
 
     Matplotlib & Seaborn: For data visualization
 
     Jupyter Notebook: For interactive analysis
+## Getting Started
+1. Clone the repository: https://github.com/Yogendra9054kumar/Data-analytics-project.git
